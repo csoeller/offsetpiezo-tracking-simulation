@@ -1,0 +1,10 @@
+
+.ipynb_checkpoints/offset-piezo-sim-checkpoint.ipynb
+
+.ipynb_checkpoints/plot-tracks-checkpoint.ipynb
+
+.ipynb_checkpoints/run-op-sim-checkpoint.ipynb
+
+*.py~
+
+*.pyc
